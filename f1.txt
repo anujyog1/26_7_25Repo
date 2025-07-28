@@ -1,7 +1,5 @@
-a
-b
-cd
-111
+deleted line in b1
 zzz
 cccc
 nnnn
+added line in b12
